@@ -1,35 +1,17 @@
-# Student Skill Exchange
+# student_skill_exchange
 
-A Flutter mobile application that allows university students to share their skills, discover other students, and request skill exchanges.
+A new Flutter project.
 
-## Features
+## Getting Started
 
-* Student registration and login
-* Student profiles
-* Share skills with other students
-* Discover students and their skills
-* Search and filter students
-* Send skill exchange requests
-* Chat between students
-* Firebase authentication and database integration
+This project is a starting point for a Flutter application.
 
-## Technologies Used
+A few resources to get you started if this is your first Flutter project:
 
-* Flutter
-* Dart
-* Firebase Authentication
-* Cloud Firestore
-* Firebase Storage
-* Google Fonts
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-## Project Purpose
-
-The project was developed as a university software development project to provide students with a platform to connect with each other and exchange skills.
-
-## My Role
-
-I was involved in the development of the application, including the user interface, Firebase integration, database structure, authentication, profile features, skill discovery, and request functionality.
-
-## Status
-
-Academic project — developed as part of my Bachelor of Computer Science (Software Development) studies at Universiti Teknikal Malaysia Melaka (UTeM).
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
